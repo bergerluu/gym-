@@ -1,0 +1,64 @@
+jun. 19, 2024 12:56:42 PM Model.chess.ChessGameService startChessGame
+WARNING: InputMismatchException occurred
+java.util.InputMismatchException: Error reading ChessPosition. Valid values are from a1 to h8. 
+	at Model.chess.UI.readChessPosition(UI.java:44)
+	at Model.chess.ChessGameService.startChessGame(ChessGameService.java:61)
+	at View.ChessApplication.main(ChessApplication.java:52)
+
+jun. 19, 2024 12:56:48 PM Model.chess.ChessGameService startChessGame
+INFO: Source position read: c2
+jun. 19, 2024 12:56:49 PM Model.chess.ChessGameService startChessGame
+INFO: Target position read: c4
+jun. 19, 2024 12:56:49 PM Model.chess.ChessGameService startChessGame
+INFO: Move performed from c2 to c4
+jun. 19, 2024 1:07:41 PM Model.chess.ChessGameService startChessGame
+WARNING: InputMismatchException occurred
+java.util.InputMismatchException: Error reading ChessPosition. Valid values are from a1 to h8. 
+	at Model.chess.UI.readChessPosition(UI.java:44)
+	at Model.chess.ChessGameService.startChessGame(ChessGameService.java:61)
+	at View.ChessApplication.main(ChessApplication.java:52)
+
+jun. 19, 2024 1:07:44 PM Model.chess.ChessGameService startChessGame
+INFO: Source position read: c2
+jun. 19, 2024 1:07:45 PM Model.chess.ChessGameService startChessGame
+INFO: Target position read: c4
+jun. 19, 2024 1:07:45 PM Model.chess.ChessGameService startChessGame
+INFO: Move performed from c2 to c4
+jun. 19, 2024 1:07:48 PM Model.chess.ChessGameService startChessGame
+INFO: Source position read: d7
+jun. 19, 2024 1:07:49 PM Model.chess.ChessGameService startChessGame
+INFO: Target position read: d5
+jun. 19, 2024 1:07:49 PM Model.chess.ChessGameService startChessGame
+INFO: Move performed from d7 to d5
+jun. 19, 2024 1:15:54 PM Model.chess.ChessGameService startChessGame
+WARNING: InputMismatchException occurred
+java.util.InputMismatchException: Error reading ChessPosition. Valid values are from a1 to h8. 
+	at Model.chess.UI.readChessPosition(UI.java:44)
+	at Model.chess.ChessGameService.startChessGame(ChessGameService.java:61)
+	at View.ChessApplication.main(ChessApplication.java:41)
+
+jun. 19, 2024 1:15:56 PM Model.chess.ChessGameService startChessGame
+INFO: Source position read: c2
+jun. 19, 2024 1:15:57 PM Model.chess.ChessGameService startChessGame
+INFO: Target position read: c4
+jun. 19, 2024 1:15:57 PM Model.chess.ChessGameService startChessGame
+INFO: Move performed from c2 to c4
+jun. 19, 2024 1:16:02 PM Model.chess.ChessGameService startChessGame
+INFO: Source position read: d7
+jun. 19, 2024 1:16:04 PM Model.chess.ChessGameService startChessGame
+INFO: Target position read: d5
+jun. 19, 2024 1:16:04 PM Model.chess.ChessGameService startChessGame
+INFO: Move performed from d7 to d5
+jun. 26, 2024 11:03:11 AM Model.chess.ChessGameService startChessGame
+WARNING: InputMismatchException occurred
+java.util.InputMismatchException: Error reading ChessPosition. Valid values are from a1 to h8. 
+	at Model.chess.UI.readChessPosition(UI.java:44)
+	at Model.chess.ChessGameService.startChessGame(ChessGameService.java:61)
+	at View.ChessApplication.main(ChessApplication.java:41)
+
+jun. 26, 2024 11:03:14 AM Model.chess.ChessGameService startChessGame
+INFO: Source position read: c2
+jun. 26, 2024 11:03:15 AM Model.chess.ChessGameService startChessGame
+INFO: Target position read: c4
+jun. 26, 2024 11:03:15 AM Model.chess.ChessGameService startChessGame
+INFO: Move performed from c2 to c4
