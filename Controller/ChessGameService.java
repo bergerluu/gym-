@@ -1,4 +1,4 @@
-package Model.chess;
+package Controller;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
@@ -11,6 +11,14 @@ import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
+
+import Model.chess.ChessException;
+import Model.chess.ChessMatch;
+import Model.chess.ChessPiece;
+import Model.chess.ChessPosition;
+import Model.chess.Player;
+import Model.chess.PlayerManager;
+import Model.chess.UI;
 
 public class ChessGameService {
     private static final Logger logger = Logger.getLogger(ChessGameService.class.getName());

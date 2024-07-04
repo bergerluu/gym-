@@ -6,8 +6,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-import Model.chess.ChessGameService;
-import Model.chess.PlayerManagerService;
+import Controller.ChessGameService;
+import Controller.PlayerManagerService;
 
 import java.io.IOException;
 

@@ -1,7 +1,12 @@
-package Model.chess;
+package Controller;
 
 import java.util.List;
 import java.util.Scanner;
+
+import Model.chess.Player;
+import Model.chess.PlayerManager;
+import Model.chess.UI;
+
 import java.io.IOException;
 
 public class PlayerManagerService {
